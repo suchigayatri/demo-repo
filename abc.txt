@@ -1,3 +1,5 @@
 abc file added from feature1
 
 i am creating a conflict from  master
+
+creating for conflict in fetaure1
